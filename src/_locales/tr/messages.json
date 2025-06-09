@@ -48,7 +48,7 @@
   },
 
   "manageSitesFallback": {
-    "message": "Site ekleyi kaldırmak için lütfen Eklenti Yöneticisi'ni açın, Chrome Maskesi'ni seçin ve Ayarlar'a tıklayın."
+    "message": "Site ekleyip kaldırmak için lütfen Eklenti Yöneticisi'ni açın, Chrome Maskesi'ni seçin ve Ayarlar'a tıklayın."
   },
 
   "addSiteTitle": {
